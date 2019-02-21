@@ -1,0 +1,16 @@
+% Sum N uniform random variable. Plot histogram of sum for
+% N = 5, 10, 50, 100.
+
+A1 = rand()
+
+% Use the delay profile from 5G ETSI document Table 7-7-2.1 TDL-A
+% page 64 to generate a channel Rayleigh fading channel. Use Matlab
+% rayleighchan(). Use fd=0 and delay spread 100ns.
+
+
+% Show that the channel is indeed Rayleigh by plotting histogram of
+% magnitude of channel gains.
+
+% Use histogram to show that the channel gain is Gaussian.
+
+

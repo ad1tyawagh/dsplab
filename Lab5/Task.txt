@@ -1,0 +1,1 @@
+Simulate equation 1 path loss using Table 1 for different frequencies and distance ranges.
